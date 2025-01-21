@@ -4,6 +4,8 @@
 
 The **Expense Tracker** app allows users to track their expenses by category. It provides an easy-to-use interface for adding, viewing, and deleting expenses. The app also features an interactive **Donut Chart** to visualize expenses by category.
 
+## Live Preview - https://expense-tracker-by-akash-tripathi.vercel.app
+
 ## Features
 
 - **Add Expenses**: Users can add expenses with description, category, and amount, and the app automatically records the creation date and time.
