@@ -23,7 +23,8 @@ The **Expense Tracker** app allows users to track their expenses by category. It
 ## Setup Instructions
 
 1. Clone the repository:
-   git clone
+   git clone https://github.com/Aakashbio/expense-tracker.git
+
    cd expense-tracker
 
 2. Install dependencies:
